@@ -1,5 +1,6 @@
 **Architectural and Civil Engineer - Software Developer by Passion**  
 
+![Bruno Adam](https://www.brunoadam.eu/images/brunoadam.jpg)
 ---
 
 ## Contact
@@ -9,8 +10,6 @@
 - **LinkedIn**: [Bruno Adam](https://www.linkedin.com/in/bruno-adam/)
 - **GitHub**: [@bruadam](https://www.github.com/bruadam)
 - **Website**: [brunoadam.eu](https://brunoadam.eu)
-
-
 
 ---
 
