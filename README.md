@@ -18,7 +18,7 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 
 ---
 
-## Summary
+## Table of Contents
 
 1. [Work Experience](#work-experience)
 2. [Education](#education)
