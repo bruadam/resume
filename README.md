@@ -4,8 +4,6 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 
 **[Contact Me](contact.md)**
 
----
-
 ## Table of Contents
 
 1. [Work Experience](#work-experience)
@@ -16,8 +14,6 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 6. [Hobbies and Interests](#hobbies-and-interests)
 7. [Volunteer Experience](#volunteer-experience)
 8. [Languages](#languages)
-
----
 
 ## Work Experience
 
@@ -64,10 +60,6 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 - Assisted in designing industrial kitchen projects with an emphasis on ergonomics and functionality.  
 - Skills: AutoCAD, Architectural Drawing Techniques, Sustainable Design Principles, Permit Application Processes, Detail-Oriented Design.
 
-[Back to Top](#summary)
-
----
-
 ## Education  
 
 ### Master in Architectural Engineering - T.I.M.E. Double Degree
@@ -88,10 +80,6 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 - Developed expertise in architectural design, bioclimatic principles, sustainable building techniques, and structural engineering, with hands-on experience in architectural studios and building systems.  
 - Gained skills in building analysis, digital modeling, urban planning, project management, and applied mathematics and physics for effective architectural and engineering practices.
 
-[Back to Top](#summary)
-
----
-
 ## Technical Skills and Tools  
 
 - **Building Performance Simulation Tools**: IDA ICE, TRNSYS, Ladybug/Honeybee, EnergyPlus, OpenStudio, DesignBuilder
@@ -103,26 +91,14 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 - **BIM Coordination**: IFC, IFCOpenShell, Speckle, Navisworks, BIM 360, Solibri, BIMCollab
 - **Daylight/Lighting Simulation**: Radiance, DIALux, ClimateStudio
 
-[Back to Top](#summary)
-
----
-
 ## Certifications
 
 - [One Click LCA Construction LCA Bootcamp 2023](https://academy.oneclicklca.com/certificates/6l4xggtuxn)
-
-[Back to Top](#summary)
-
----
 
 ## Side Projects
 
 - Instagram Page [@ir_architectes_uliege](https://www.instagram.com/ir_architectes_uliege/): Sharing architectural projects from students at the University of Liège. I have been the initiator and main contributor to this project in 2019 to 2021.
 - MicroHome Competition 2020: Designed a sustainable micro-home concept for an online architectural competition, focusing on designing new way of living and affordable housing solutions. I have designed the module, calculated the structural elements using Matlab, designed the 3D model using SketchUp, and created the presentation using Adobe Photoshop, Illustrator, and InDesign. The project is available on [My Bachelor's Portfolio](https://issuu.com/brunoadam4337/docs/portfolio_v2).
-
-[Back to Top](#summary)
-
----
 
 ## Hobbies and Interests
 
@@ -135,19 +111,11 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 - **Reading**: I read books on architecture, engineering, sustainability, and personal development to expand my knowledge and creativity.
 - **Entrepreneurship**: I am passionate about entrepreneurship and innovation in the building sector, exploring new business models and technologies.
 
-[Back to Top](#summary)
-
---- 
-
 ## Volunteer Experience
 
 - Flood Disaster Relief Volunteer, Verviers, Belgium, July 2021
 - House Ambassador, DTU Students Culture Hub, Lyngby, Denmark, August 2022 - December 2022
 - Youth Town Council Member, Tiège, Belgium, 2017 - 2019
-
-[Back to Top](#summary)
-
----
 
 ## Languages  
 
@@ -155,5 +123,3 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 - **English**: Bilingual  
 - **Danish**: Professional Working Proficiency  
 - **German**: Limited Professional Working Proficiency
-
-[Back to Top](#summary)
