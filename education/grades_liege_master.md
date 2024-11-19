@@ -29,4 +29,4 @@
 - **10-11**: Sufficient
 - **0-9**: Fail
 
-[Back to ULiège Master](education/master_uliege.md)
+[Back to ULiège Master](../education/master_uliege.md)
