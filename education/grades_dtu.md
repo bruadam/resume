@@ -32,4 +32,4 @@
 
 **PA**: Passed (Courses with no grade assigned)
 
-[Back to DTU Master](education/master_dtu.md)
+[Back to DTU Master](../education/master_dtu.md)
