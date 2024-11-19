@@ -12,13 +12,7 @@
 
 ---
 
-I am a visionary Architectural and Civil Engineer with a deep passion for designing sustainable and healthy buildings that prioritize human well-being and environmental stewardship. My mission is to accelerate the green transition in the building sector by leveraging cutting-edge technologies, innovative methodologies, and a commitment to energy efficiency, daylight optimization, and superior indoor climate solutions.  
-
-What sets me apart is my unique combination of architectural and engineering expertise paired with advanced software development skills. This blend allows me to bridge the gap between creative design and technical execution, enabling me to deliver solutions that are not only sustainable and efficient but also functional and user-focused.  
-
-I thrive on challenges that push the boundaries of sustainable architecture and engineering. By automating and optimizing building design processes through data-driven insights and innovative tools, I aim to revolutionize how buildings are conceived, designed, and operated. My goal is to contribute to groundbreaking projects that set new standards in energy performance, occupant comfort, and environmental responsibility.  
-
-I am eager to collaborate with forward-thinking teams and organizations that value sustainability, creativity, and excellence. Together, we can shape a future where buildings are not only spaces to inhabit but also benchmarks of innovation and sustainability.  
+I am a visionary Architectural and Civil Engineer dedicated to designing sustainable, healthy buildings that prioritize well-being and environmental responsibility. By combining architectural and engineering expertise with advanced software skills, I bridge design and technical execution to optimize energy efficiency, daylight, and indoor climate. I strive to revolutionize building design through data-driven solutions and seek collaborations on projects that set new standards in energy performance and sustainability.
 
 ---
 
