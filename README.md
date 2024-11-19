@@ -96,6 +96,7 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 ---
 
 ## Technical Skills and Tools  
+
 - **Building Performance Simulation Tools**: IDA ICE, TRNSYS, Ladybug/Honeybee, EnergyPlus, OpenStudio, DesignBuilder
 - **Design**: Revit, Archicad, AutoCAD, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma
 - **Programming and Development**: Python, Swift, React/Next.JS, Typescript, REST APIs, Docker, Swagger, OpenAPI 3.0
