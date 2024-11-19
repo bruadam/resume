@@ -70,20 +70,21 @@ I am eager to collaborate with forward-thinking teams and organizations that val
 ### Master in Architectural Engineering - T.I.M.E. Double Degree
 **[Technical University of Denmark, DTU, Lyngby, Denmark](education/master_dtu.md)**  
 *September 2021 - August 2023*  
-- Specialised in Indoor Climate, Energy Performance Simulation, and Building Information Modelling.
+- Specialized in sustainable building design, focusing on energy efficiency, indoor environmental quality, and advanced tools like BIM and AI-driven simulations for optimized performance.
+- Developed expertise in building systems, sustainable practices, and entrepreneurship, with a strong emphasis on HVAC design, energy-efficient solutions, and innovative technologies.
 - Thesis: *Using artificial intelligence to predict indoor temperature to improve indoor thermal quality in sub-Saharan buildings subjected to climate changes.*
 
 **[School of Engineering, University of Liège, Belgium](education/master_uliege.md)**
 *September 2020 - August 2023*
-- Specialised in Sustainable Building Design, Building Physics, and Structural Engineering.
-- Architectural Projects, Building Information Modelling, and Structural Analysis.
-
+- Specialized in sustainable architectural design, urban planning, and conservation, focusing on minimizing environmental impact, optimizing building acoustics, lighting, and energy-efficient HVAC systems.
+- Developed expertise in advanced building systems, BIM, sustainable materials, and the preservation of cultural heritage through practical projects and a professional internship.
 ---
 
 ### [Bachelor in Architectural Engineering](education/bachelor.md)  
 **School of Engineering, University of Liège, Belgium**  
 *September 2017 - June 2020*  
-- Specialised in Architectural Drawings, Bioclimatic Design, and Sustainable Building Design.
+- Developed expertise in architectural design, bioclimatic principles, sustainable building techniques, and structural engineering, with hands-on experience in architectural studios and building systems.  
+- Gained skills in building analysis, digital modeling, urban planning, project management, and applied mathematics and physics for effective architectural and engineering practices.
 
 ---
 
