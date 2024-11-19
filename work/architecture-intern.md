@@ -2,13 +2,13 @@
 **Dethier Architecture Office, Liège, Belgium**  
 *Summer 2020*
 
-Gained hands-on experience in architectural design with a focus on sustainability.  
+Participated in architectural design projects focusing on sustainable and functional solutions.  
 
 ## Key Contributions
-- Drafted architectural drawings and prepared permit documentation.  
-- Contributed to the design of industrial kitchens and other projects.
+- Prepared architectural drawings and permit documentation.  
+- Assisted in designing industrial kitchen projects with an emphasis on ergonomics and functionality.  
 
-## Skills Acquired
-- AutoCAD, Architectural Drawings  
+## Skills Developed
+- AutoCAD and Architectural Drawing Techniques  
+- Sustainable Design Principles  
 - Permit Application Processes  
-- Sustainable Architectural Practices  
