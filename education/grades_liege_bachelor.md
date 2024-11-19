@@ -55,4 +55,4 @@
 - **10-11**: Sufficient
 - **0-9**: Fail
 
-[Back to ULiège Bachelor](education/bachelor.md)
+[Back to ULiège Bachelor](../education/bachelor.md)
