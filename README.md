@@ -90,6 +90,7 @@ I am eager to collaborate with forward-thinking teams and organizations that val
 *September 2020 - August 2023*
 - Specialized in sustainable architectural design, urban planning, and conservation, focusing on minimizing environmental impact, optimizing building acoustics, lighting, and energy-efficient HVAC systems.
 - Developed expertise in advanced building systems, BIM, sustainable materials, and the preservation of cultural heritage through practical projects and a professional internship.
+
 ---
 
 ### [Bachelor in Architectural Engineering](education/bachelor.md)  
