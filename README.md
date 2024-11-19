@@ -1,5 +1,17 @@
 **Architectural and Civil Engineer - Software Developer by Passion**  
 
+---
+
+## Contact
+- **Location**: Copenhagen, Denmark
+- **Email**: [bruno.adam@pm.me](mailto:bruno.adam@pm.me)
+- **Phone**: [+45 55 21 77 16](tel:+4555217716)
+- **LinkedIn**: [Bruno Adam](https://www.linkedin.com/in/bruno-adam/)
+- **GitHub**: [@bruadam](https://www.github.com/bruadam)
+- **Website**: [brunoadam.eu](https://brunoadam.eu)
+
+---
+
 I am a visionary Architectural and Civil Engineer with a deep passion for designing sustainable and healthy buildings that prioritize human well-being and environmental stewardship. My mission is to accelerate the green transition in the building sector by leveraging cutting-edge technologies, innovative methodologies, and a commitment to energy efficiency, daylight optimization, and superior indoor climate solutions.  
 
 What sets me apart is my unique combination of architectural and engineering expertise paired with advanced software development skills. This blend allows me to bridge the gap between creative design and technical execution, enabling me to deliver solutions that are not only sustainable and efficient but also functional and user-focused.  
@@ -88,14 +100,6 @@ I am eager to collaborate with forward-thinking teams and organizations that val
 
 ---
 
-## Languages  
-- **French**: Native  
-- **English**: Bilingual  
-- **Danish**: Professional Working Proficiency  
-- **German**: Limited Professional Working Proficiency
-
----
-
 ## Technical Skills and Tools  
 - **Building Performance Simulation Tools**: IDA ICE, TRNSYS, Ladybug/Honeybee, EnergyPlus, OpenStudio, DesignBuilder
 - **Design**: Revit, Archicad, AutoCAD, Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma
@@ -109,4 +113,39 @@ I am eager to collaborate with forward-thinking teams and organizations that val
 
 ---
 
-[Visit my website](https://brunoadam.eu)
+## Certifications
+- [One Click LCA Construction LCA Bootcamp 2023](https://academy.oneclicklca.com/certificates/6l4xggtuxn)
+
+---
+
+## Side Projects
+- Instagram Page [@ir_architectes_uliege](https://www.instagram.com/ir_architectes_uliege/): Sharing architectural projects from students at the University of Liège. I have been the initiator and main contributor to this project in 2019 to 2021.
+- MicroHome Competition 2020: Designed a sustainable micro-home concept for an online architectural competition, focusing on designing new way of living and affordable housing solutions. I have designed the module, calculated the structural elements using Matlab, designed the 3D model using SketchUp, and created the presentation using Adobe Photoshop, Illustrator, and InDesign. The project is available on [My Bachelor's Portfolio](https://issuu.com/brunoadam4337/docs/portfolio_v2).
+
+---
+
+## Hobbies and Interests
+
+- **Cycling**: I am an avid cyclist and enjoy exploring new routes and landscapes on my bike.
+- **Running**: I participate in local running events and marathons to challenge myself and stay active.
+- **Swimming and winter bathing**: I enjoy swimming in pools and the sea, winter bathing in the cold sea, and sauna sessions.
+- **Photography**: I capture moments and architectural details that inspire me, sharing them on my Instagram page.
+- **Traveling**: I love discovering new cultures, architecture, and landscapes around the world.
+- **Developing Algorithms**: I enjoy developing algorithms for architectural design optimization and energy performance simulation. 
+- **Reading**: I read books on architecture, engineering, sustainability, and personal development to expand my knowledge and creativity.
+- **Entrepreneurship**: I am passionate about entrepreneurship and innovation in the building sector, exploring new business models and technologies.
+
+--- 
+
+## Volunteer Experience
+- Flood Disaster Relief Volunteer, Verviers, Belgium, July 2021
+- House Ambassador, DTU Students Culture Hub, Lyngby, Denmark, August 2022 - December 2022
+- Youth Town Council Member, Tiège, Belgium, 2017 - 2019
+
+---
+
+## Languages  
+- **French**: Native  
+- **English**: Bilingual  
+- **Danish**: Professional Working Proficiency  
+- **German**: Limited Professional Working Proficiency
