@@ -1,19 +1,8 @@
-**Architectural and Civil Engineer - Software Developer by Passion**  
-
 ![Bruno Adam](https://www.brunoadam.eu/images/brunoadam.jpg)
----
-
-## Contact
-- **Location**: Copenhagen, Denmark
-- **Email**: [bruno.adam@pm.me](mailto:bruno.adam@pm.me)
-- **Phone**: [+45 55 21 77 16](tel:+4555217716)
-- **LinkedIn**: [Bruno Adam](https://www.linkedin.com/in/bruno-adam/)
-- **GitHub**: [@bruadam](https://www.github.com/bruadam)
-- **Website**: [brunoadam.eu](https://brunoadam.eu)
-
----
 
 I am a visionary Architectural and Civil Engineer dedicated to designing sustainable, healthy buildings that prioritize well-being and environmental responsibility. By combining architectural and engineering expertise with advanced software skills, I bridge design and technical execution to optimize energy efficiency, daylight, and indoor climate. I strive to revolutionize building design through data-driven solutions and seek collaborations on projects that set new standards in energy performance and sustainability.
+
+**[Contact Me](contact.md)**
 
 ---
 
