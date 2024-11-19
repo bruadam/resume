@@ -18,3 +18,6 @@ Specialized in sustainable architectural design, urban planning, and conservatio
 ---
 
 [List of courses and grades](education/grades_uliege.md)
+
+---
+[Back to Resume](../README.md)

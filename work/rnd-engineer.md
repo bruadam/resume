@@ -12,7 +12,7 @@ Driving innovation in energy efficiency and indoor environmental quality, contri
 - **Machine Learning Innovations:** Built interpretable machine learning models for energy prediction for M&V methods for Energy Conservation Measures evaluation, integrating weather, real occupancy, and indoor climate data.  
 - **Product Ecosystem Development:** Enhanced Climify’s platform with Flutter and Swift apps, introducing user feedback-driven designs and UI/UX prototypes via Figma.  
 
-## Skills Developed
+## Key Skills
 - Machine Learning and Data-Driven Design  
 - Energy Management Systems (ISO 50001)
 - Predictive Energy Modeling and Energy Conservation Measures Evaluation
@@ -21,3 +21,6 @@ Driving innovation in energy efficiency and indoor environmental quality, contri
 - Indoor Environmental Quality Assessment (EN 16798, WELL)
 - Building Sustainability Certification for Buildings in Operation (DGNB, BREAM)
 - UI/UX Prototyping with Figma
+
+---
+[Back to Resume](../README.md)

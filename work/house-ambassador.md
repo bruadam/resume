@@ -12,3 +12,6 @@ Promoted a supportive community within student housing by fostering tolerance, r
 - Event Planning, Leadership  
 - Community Engagement and Teamwork  
 - Sustainability Advocacy  
+
+---
+[Back to Resume](../README.md)

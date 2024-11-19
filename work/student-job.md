@@ -12,3 +12,6 @@ Managed delivery and operational activities, ensuring the smooth execution of lo
 - Leadership and Team Management  
 - Lean Management in Operations  
 - Communication and Cultural Awareness  
+
+---
+[Back to Resume](../README.md)

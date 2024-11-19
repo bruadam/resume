@@ -16,3 +16,6 @@ Specialised in advanced methodologies and technologies for sustainable building 
 ---
 
 **GPA**: 9.6/12 (Danish Grade) [List of courses and grades](education/grades_dtu.md)
+
+---
+[Back to Resume](../README.md)

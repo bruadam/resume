@@ -25,3 +25,6 @@ I assisted students during the experiments, guiding them through the process of 
 - **Gas Tracing Technique**: Assisted students in measuring air change rates for improved ventilation assessments.  
 - **Gas Build-up and Decay Models**: Supported students in understanding how ventilation influences indoor gas dynamics.  
 - **Report Writing**: Guided students in documenting and analyzing experimental results.  
+
+---
+[Back to Resume](../README.md)

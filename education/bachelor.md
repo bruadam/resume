@@ -20,3 +20,6 @@ Developed a comprehensive understanding of architectural design, sustainable bui
 **GPA**: 15.9/20 (Belgian Grade) Cum Laude
 
 [List of courses and grades](education/grades_liege_bachelor.md)
+
+---
+[Back to Resume](../README.md)
