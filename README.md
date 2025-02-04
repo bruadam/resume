@@ -1,10 +1,10 @@
 ![Bruno Adam](https://www.brunoadam.eu/images/brunoadam.jpg)
 
-I am a visionary Architectural and Civil Engineer dedicated to designing sustainable, healthy buildings that prioritize well-being and environmental responsibility. By combining architectural and engineering expertise with advanced software skills, I bridge design and technical execution to optimize energy efficiency, daylight, and indoor climate. I strive to revolutionize building design through data-driven solutions and seek collaborations on projects that set new standards in energy performance and sustainability.
+Highly skilled and visionary Architectural and Civil Engineer with a strong focus on sustainable building design and Building Information Management (BIM). Proven expertise in combining architectural and engineering principles with advanced software skills to optimize energy efficiency, daylight, and indoor climate. Experienced in digitalizing building stock, monitoring energy use, and ensuring high indoor environmental quality. Proficient in data management across the building lifecycle, with a track record of successfully coordinating integrated-discipline projects using cutting-edge tools like Revit, Autodesk Cloud Computing, BIM 360, and Speckle.
 
-I can offer expertise in the digitalisation of your building stock, help in monitoring energy uses, tackle down energy waste, while maintaining an appropriate indoor environmental quality. I have experience in data management in both design and operation phases of the building lifecycle. with me, your company can benefit form a fresh perspective on how to use digitalisation, and make your building stock AI ready.
+Demonstrated ability to identify process bottlenecks and implement strong management tools to deliver projects on time and within budget. Adept at agile project management methodologies and leading software development teams to provide stable and efficient solutions. Known for an analytical mindset, continuous improvement ethos, and exceptional problem-solving skills. Successfully developed innovative solutions for indoor climate assessment and energy prediction models, achieving high accuracy and transparency.
 
-In the design phase, I can streamline operation with data in the Building Information Management context. I coordinated successfully two integrated-disclined project in Academy in both the Belgian and Danish Context, using cutting-edge software and tools like Revit, Autodesk Cloud Computing, and BIM 360. I have also experience in BIM model version and data sharing platforms like Speckle and I can implement Speckle in your company. I am a big fan of open-source software, future-proofing your company's digitalisation by mitigating the risk of legacy software. I have enough software experience to provide proof of concept for streamlining scripts in the data management process. I am good at identifying bottlenecks in current processes, implementing strong management tools to deliver projects on time and on budget. I have experience in the agile project management methodology. I can lead software developers to provide stable and efficient software solutions. I can listen to customers needs and provide solutions to them. I have an analytical mindset and a sense of continuous improvement. My creativity and problem-solving skills can generate new ideas which open up to new perspective and sometimes more efficient way of working. I am also very flexible, as demonstrated at Climify, I have digged in the job with limited knowledge in software development but shipped a analytical reporting feating for indoor climate assessment implementing latest DTU research in IEQ. I have developed the project all the way from the idea, to the prototyping phase to the troubleshooting to the launch of the product in 2 months. It allows users of Climify platform to assess their entire buildings stock IEQ health for previous 3 years in minutes. They have now the tools to identify the worst performing buildings down to the rooms. They can also identify patterns and spot when the problem happens. I have also developed a state of art energy prediction model for Measurement and Verification Evaluation of Energy Conservative measures in 3 months with low budget and in a team of 2. I have been managing the project timeline, making sure we were on track while developing the model to achieve high accuracy (error of max 10% on real energy consumption with hourly prediction which is far lower than ASHRAE guideline of 30 % error for such case). The model is not only accurate but also transparent and allows reproductibility of the calculations which competitors failed with similar models. With this accurate and transparent model, Climify can help customers to implement ISO50001 fully which needs disclosure of the calculations methods. Most of the project have been developed with low budget and time constraints and financial stress. I have played a central role in all the development, usually taking the leader role and supervising the good execution of the project from the prospect to customers to the shipping of the final product.
+Seeking to leverage my expertise to empower building design through data-driven solutions and set new standards in energy performance and sustainability.
 
 **[Contact Me](contact.md)**
 
@@ -18,6 +18,7 @@ In the design phase, I can streamline operation with data in the Building Inform
 6. [Hobbies and Interests](#hobbies-and-interests)
 7. [Volunteer Experience](#volunteer-experience)
 8. [Languages](#languages)
+9. [References](#references)
 
 ## Work Experience
 
@@ -127,5 +128,14 @@ In the design phase, I can streamline operation with data in the Building Inform
 
 - **French**: Native  
 - **English**: Bilingual  
-- **Danish**: Professional Working Proficiency  
+- **Danish**: Working Proficiency  
 - **German**: Limited Professional Working Proficiency
+
+## References
+
+**Climify**: [Peter Bonvang](https://www.linkedin.com/in/peter-bonvang/), Software Developer, Colleague / [Callum Blair](https://www.linkedin.com/in/callum-blair/), Software Developer, Colleague / [Marin Holi](mailto: mh@climify.com), CTO, Manager 
+**Velove Biking**: [Stefan Attig](https://www.linkedin.com/in/stefanattig/), Linkedin, Operations Manager, Manager / [Tobias Tofte](tel:+4524261237), Community Manager, Manager
+**DTU Sustain, International Center for Indoor Environment and Energy**: Geo Clausen, Professor, Manager / Jørn Toftum, Professor, Thesis Supervisor / Mariya Petrova Bivolarova, Assistant Professor, Collaboration Partner
+**Dethier Architecture Office**: Daniel Dethier, Architect, Manager
+
+*Please contact me for the full contact details of my references.*
