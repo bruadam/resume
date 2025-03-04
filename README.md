@@ -1,10 +1,10 @@
 ![Bruno Adam](https://www.brunoadam.eu/images/brunoadam.jpg)
 
-Highly skilled and visionary Architectural and Civil Engineer with a strong focus on sustainable building design and Building Information Management (BIM). Proven expertise in combining architectural and engineering principles with advanced software skills to optimize energy efficiency, daylight, and indoor climate. Experienced in digitalizing building stock, monitoring energy use, and ensuring high indoor environmental quality. Proficient in data management across the building lifecycle, with a track record of successfully coordinating integrated-discipline projects using cutting-edge tools like Revit, Autodesk Cloud Computing, BIM 360, and Speckle.
+Skilled and visionary Architectural and Civil Engineer with a strong focus on sustainable building design and digitalisation in the building industry (BIM, BrickSchema, ...). Proven expertise in combining architectural and engineering principles with advanced software skills to optimize energy efficiency, daylight, and indoor climate. Experienced in digitalizing building stock, monitoring energy use, and ensuring high indoor environmental quality. Proficient in data management across the building lifecycle, with a track record of successfully coordinating integrated-discipline projects using cutting-edge tools like Revit, Autodesk Cloud Computing, BIM 360, and Speckle.
 
 Demonstrated ability to identify process bottlenecks and implement strong management tools to deliver projects on time and within budget. Adept at agile project management methodologies and leading software development teams to provide stable and efficient solutions. Known for an analytical mindset, continuous improvement ethos, and exceptional problem-solving skills. Successfully developed innovative solutions for indoor climate assessment and energy prediction models, achieving high accuracy and transparency.
 
-Seeking to leverage my expertise to empower building design through data-driven solutions and set new standards in energy performance and sustainability.
+Seeking to leverage my expertise to empower building design through data-driven solutions and set new standards in indoor climate, energy performance and sustainability.
 
 **[Contact Me](contact.md)**
 
@@ -132,10 +132,5 @@ Seeking to leverage my expertise to empower building design through data-driven 
 - **German**: Limited Professional Working Proficiency
 
 ## References
-
-**Climify**: [Peter Bonvang](https://www.linkedin.com/in/peter-bonvang/), Software Developer, Colleague / [Callum Blair](https://www.linkedin.com/in/callum-blair/), Software Developer, Colleague / [Marin Holi](mailto: mh@climify.com), CTO, Manager 
-**Velove Biking**: [Stefan Attig](https://www.linkedin.com/in/stefanattig/), Linkedin, Operations Manager, Manager / [Tobias Tofte](tel:+4524261237), Community Manager, Manager
-**DTU Sustain, International Center for Indoor Environment and Energy**: Geo Clausen, Professor, Manager / Jørn Toftum, Professor, Thesis Supervisor / Mariya Petrova Bivolarova, Assistant Professor, Collaboration Partner
-**Dethier Architecture Office**: Daniel Dethier, Architect, Manager
 
 *Please contact me for the full contact details of my references.*
