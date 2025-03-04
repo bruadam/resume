@@ -1,6 +1,10 @@
 ![Bruno Adam](https://www.brunoadam.eu/images/brunoadam.jpg)
 
-I am a visionary Architectural and Civil Engineer dedicated to designing sustainable, healthy buildings that prioritize well-being and environmental responsibility. By combining architectural and engineering expertise with advanced software skills, I bridge design and technical execution to optimize energy efficiency, daylight, and indoor climate. I strive to revolutionize building design through data-driven solutions and seek collaborations on projects that set new standards in energy performance and sustainability.
+Highly skilled and visionary Architectural and Civil Engineer with a strong focus on sustainable building design and Building Information Management (BIM). Proven expertise in combining architectural and engineering principles with advanced software skills to optimize energy efficiency, daylight, and indoor climate. Experienced in digitalizing building stock, monitoring energy use, and ensuring high indoor environmental quality. Proficient in data management across the building lifecycle, with a track record of successfully coordinating integrated-discipline projects using cutting-edge tools like Revit, Autodesk Cloud Computing, BIM 360, and Speckle.
+
+Demonstrated ability to identify process bottlenecks and implement strong management tools to deliver projects on time and within budget. Adept at agile project management methodologies and leading software development teams to provide stable and efficient solutions. Known for an analytical mindset, continuous improvement ethos, and exceptional problem-solving skills. Successfully developed innovative solutions for indoor climate assessment and energy prediction models, achieving high accuracy and transparency.
+
+Seeking to leverage my expertise to empower building design through data-driven solutions and set new standards in energy performance and sustainability.
 
 **[Contact Me](contact.md)**
 
@@ -14,6 +18,7 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 6. [Hobbies and Interests](#hobbies-and-interests)
 7. [Volunteer Experience](#volunteer-experience)
 8. [Languages](#languages)
+9. [References](#references)
 
 ## Work Experience
 
@@ -97,6 +102,8 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 
 ## Side Projects
 
+- Buildtopia: A newsletter and community platform to connect AECO professionals around an utopia which sets new standards in the building sector. I am the main author and editor of the newsletter, focusing on building technology and how technology can solve the challenges we are facing. It is mostly targetting the Operation and Maintenance in the building lifecycle bridging the gap with the development of the rest of the AEC industry. It has started in January 2025. The website is available at [buildtopia.ghost.io](https://buildtopia.ghost.io/).
+- Cadence: This is a time management tool developed by Oleg Moshkovich. Cadence enables users to find rythm in their life with a 30-minute timeslice. The power of patterns allows the users to reflect on how they spend time. I have joined the project as an early-adopter using it to manage my time and improve my productivity. I am also contributing to the project in the development of the app as a full-stack developer. The marketing website can be found at [cadence.day](https://cadence.day/) and the app at [trycadence.app](https://trycadence.app/).
 - Instagram Page [@ir_architectes_uliege](https://www.instagram.com/ir_architectes_uliege/): Sharing architectural projects from students at the University of Liège. I have been the initiator and main contributor to this project in 2019 to 2021.
 - MicroHome Competition 2020: Designed a sustainable micro-home concept for an online architectural competition, focusing on designing new way of living and affordable housing solutions. I have designed the module, calculated the structural elements using Matlab, designed the 3D model using SketchUp, and created the presentation using Adobe Photoshop, Illustrator, and InDesign. The project is available on [My Bachelor's Portfolio](https://issuu.com/brunoadam4337/docs/portfolio_v2).
 
@@ -121,5 +128,14 @@ I am a visionary Architectural and Civil Engineer dedicated to designing sustain
 
 - **French**: Native  
 - **English**: Bilingual  
-- **Danish**: Professional Working Proficiency  
+- **Danish**: Working Proficiency  
 - **German**: Limited Professional Working Proficiency
+
+## References
+
+**Climify**: [Peter Bonvang](https://www.linkedin.com/in/peter-bonvang/), Software Developer, Colleague / [Callum Blair](https://www.linkedin.com/in/callum-blair/), Software Developer, Colleague / [Marin Holi](mailto: mh@climify.com), CTO, Manager 
+**Velove Biking**: [Stefan Attig](https://www.linkedin.com/in/stefanattig/), Linkedin, Operations Manager, Manager / [Tobias Tofte](tel:+4524261237), Community Manager, Manager
+**DTU Sustain, International Center for Indoor Environment and Energy**: Geo Clausen, Professor, Manager / Jørn Toftum, Professor, Thesis Supervisor / Mariya Petrova Bivolarova, Assistant Professor, Collaboration Partner
+**Dethier Architecture Office**: Daniel Dethier, Architect, Manager
+
+*Please contact me for the full contact details of my references.*
