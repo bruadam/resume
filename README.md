@@ -102,7 +102,7 @@ I am at the intersect of building services engineering, indoor climate, and ener
     -> [cadence.day](https://cadence.day/)
 
 - **Instagram Page [@ir_architectes_uliege](https://www.instagram.com/ir_architectes_uliege/)**: Sharing architectural projects from students in architectural engineering at the University of Liège. I have been the founder and main contributor to this project in 2019 to 2021.
-- 
+
 - **MicroHome Competition 2020**: Designed a sustainable micro-home concept for an online architectural competition, focusing on designing new way of living and affordable housing solutions. I have designed the module, calculated the structural elements using Matlab, designed the 3D model using SketchUp, and created the presentation using Adobe Photoshop, Illustrator, and InDesign. The project is available on [My Bachelor's Portfolio](https://issuu.com/brunoadam4337/docs/portfolio_v2).
 
 ## Hobbies and Interests
